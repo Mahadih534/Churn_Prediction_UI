@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 
 def main():
 
-    st.set_page_config(page_title='Car Price Prediction', page_icon=':car:', layout='centered')
+    st.set_page_config(page_title='Car Price Prediction', page_icon=':bar:', layout='centered')
 
     page_bg_image = """
     <style>
