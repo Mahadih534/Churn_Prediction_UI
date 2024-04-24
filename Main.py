@@ -31,7 +31,7 @@ def main():
 
 
     #Loading the Dataset
-    data=pd.read_csv('Churn_Prediction_UI/WA_Fn-UseC_-Telco-Customer-Churn.csv')
+    data=pd.read_csv('WA_Fn-UseC_-Telco-Customer-Churn.csv')
 
     #Converting the Data into Categorical
 
